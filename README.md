@@ -1,4 +1,4 @@
-# Miguel M. - Cupidr Tester
+# Miguel G. - Cupidr Tester
 
 - I work with Python and GoLang
 - I'm from Porto, Portugal 🇵🇹
