@@ -1,5 +1,7 @@
-# Hi, I'm Elijah
+# Miguel M. - Cupidr Tester
 
-Not much to say about me. The most you'll see on my profile are forks I won't use. SissioMisio's ROMs are good. Check him out instead. It's more useful than being here.
+- I work with Python and GoLang
+- I'm from Porto, Portugal 🇵🇹
+- I love cats and corrupting Linux installs
 
-let's go lads | Portugal 🇵🇹
+![PORTUGAL CAR@LH0!!11!!!!1!1](https://github.com/migueltheman/migueltheman/blob/ce68ccdaa07bcd735310a083e87de1dcef368606/portugal.jpg)
