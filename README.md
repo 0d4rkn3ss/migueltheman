@@ -1,4 +1,4 @@
-# Miguel G. - Cupidr Tester
+# Miguel G. - Most useless programmer ever (I test for the S21+ tho)
 
 - I work with Python and GoLang
 - I'm from Porto, Portugal 🇵🇹
