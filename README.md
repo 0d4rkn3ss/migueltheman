@@ -1,4 +1,4 @@
-# Miguel G. - Most useless programmer ever (marble/cupidr enjoyer)
+# Ʀε†Ʀ0.$ρεc† - Most useless programmer ever (marble/cupidr enjoyer)
 
 - I work with Python, Shell and Ruby 💀
 - I'm from Porto, Portugal 🇵🇹
