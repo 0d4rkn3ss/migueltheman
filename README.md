@@ -1,4 +1,4 @@
-# Ʀε†Ʀ0.$ρεc† - Most useless programmer ever (marble/cupidr enjoyer)
+# 0D4RKN€SS - Most useless programmer ever (Marble & S21+ Enjoyer)
 
 - I work with Python, Shell and Ruby 💀
 - I'm from Porto, Portugal 🇵🇹
